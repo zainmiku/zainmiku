@@ -1,3 +1,4 @@
+# 求职中
 # 个人技能
   - 熟悉 java  开发，了解 springboot、mybatis plus、mysql  等后端技术栈。
   - 熟悉 linux （现使用 archlinux  桌面环境），能独立编写 shell  脚本，搭建服务器环境，排查环境错误。
