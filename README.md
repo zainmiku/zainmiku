@@ -1,4 +1,3 @@
-# 求职中
 # 个人技能
   - 熟练掌握 Java 开发，熟悉常用框架（如 Spring Boot、MyBatis Plus），熟悉数据库（如 MySQL），并能够独立完成后端开发工作。
   - 熟悉 Linux 系统管理及维护，熟练使用 Shell 脚本进行自动化运维；
